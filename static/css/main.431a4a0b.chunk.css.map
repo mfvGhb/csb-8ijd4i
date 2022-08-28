@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/styles.css"],"names":[],"mappings":"AAAA,KACE,sBAAuB,CACvB,iBACF,CACA,KACA,WAAY,CACZ,WAAY,CACZ,iBAAkB,CAClB,kBAEA","file":"main.431a4a0b.chunk.css","sourcesContent":[".App {\n  font-family: sans-serif;\n  text-align: center;\n}\n.bt1 {\nwidth:210px ;\nheight:69px ;\nborder-radius: 7px;\nvertical-align: top ;\n\n}\n"]}
